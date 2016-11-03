@@ -1,3 +1,4 @@
+"use strict";
 let MiScale = require('../index.js');
 
 let miscale = new MiScale();
