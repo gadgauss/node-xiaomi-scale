@@ -3,6 +3,7 @@
 ## RUN
 
 > npm install
+
 > sudo node examples/get_scale_data.js 
 
 ## MiScale class
