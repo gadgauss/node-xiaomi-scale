@@ -1,5 +1,10 @@
 # node-xiaomi-scale
 
+## RUN
+
+> npm install
+> sudo node examples/get_scale_data.js 
+
 ## MiScale class
 ### Constructor
 constructor optionally accepts mac address string. If string is given, it only emits data from given address.
